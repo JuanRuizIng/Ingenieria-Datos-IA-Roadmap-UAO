@@ -39,6 +39,3 @@ Para cualquier duda o sugerencia, puedes contactarnos por aquí por Github o por
 <br>**Santiago Murgueitio - @lapiceroazul4**
 - santiago_mur@uao.edu.co
 - lapiceroazul4@proton.me
-
-**Samuel Pinzón - @SPinzon12**
-- samuel.pinzon@uao.edu.co
