@@ -11,31 +11,28 @@
 </p>
 
 
-Hola! bienvenido al repositorio de la carrera ing de datos e IA, nosotros somos Santiago Murgueitio y Samuel Pinzon, estudiantes *(Probablemente ya egresados para cuando leas esto)* de la UAO. 
+Hola! bienvenido al repositorio de la carrera Ingenieria de Datos e Inteligencia Artificial de la UAO, las personas aquí involucradas somos o fuimos, en su mayoria, estudiantes de la carrera. Decidimos crear este espacio cómo un punto central en el cuál guardar ejercicios, actividades, guías y, en general todo tipo de material que pueda servir como referencia para aquellos que estén recorriendo este camino.
 
 <h3 align="left"> ¿Qué es este repositorio? </h3>
-
-Nos decidimos a hacer este repositorio con el objetivo de crear una comunidad, donde nos apoyemos mutuamente sin importar el punto en el que encuentres.
+Para el momento en que escribo esto, apenas la primera cohorte de la carrera ha terminado, y dado que aún es un programa nuevo, se nos ocurrió que una buena forma de contribuir al desarrollo profesional de quienes están emprendiendo este camino es dejar un registro de lo que hicimos aquellos que ya pasamos por él. De esta manera, nuestro trabajo servirá como punto de partida para las nuevas generaciones. Además, este espacio también tiene como objetivo ayudar a resolver dudas técnicas sobre lo que estén implementando. (Quizás alguien ya haya pasado por el mismo problema que tú y pueda brindarte su apoyo, algo así como un StackOverflow, pero con la gente de la UAO, y sin que te tiren tanto hate cómo pasa en StackOverflow cuando eres nuevo).
 
 <h3 align="left"> Que NO es este repositorio... </h3>
 
-- Esto no es un repositorio donde encontraras copia de las actividades o proyectos. (La idea es apoyarte, no hacerte los trabajos)
+> [!WARNING]
+> Este repositorio no está diseñado con el propósito de que copies y presentes trabajos ya hechos por otra persona (eso, claramente, es plagio). Ten en cuenta que muchos de los profesores que te calificarán probablemente también nos calificaron a nosotros, y además, ellos también tienen acceso a internet, por lo que es posible que encuentren este repositorio. La idea es que este espacio te sirva como punto de partida: puedes tomar ideas, apoyarte en la comunidad, pero no vinimos aquí para hacerte los trabajos. Recuerda que, sin importar lo que diga un cartón, serás tan buen o mal profesional como tú decidas ser.
+
 
 <h3 align="left"> ¿Cómo funciona este repositorio? </h3>
 
-- En la carpeta "Roadmap" encontrarás una subdivisión por semestres, y dentro de cada semestre, una carpeta para cada materia asociada y allí información de la misma. 
+- En la carpeta `Roadmap` encontrarás una subdivisión por semestres, y dentro de cada semestre, una carpeta para cada materia asociada y allí información de la misma.
+- En la carpeta `Resources` encontraras recursos adicionales que pueden servirte para tus espacios de estudio independiente, también en caso de que quieras adelantarte a los temas que vas durante el semestre (muy recomendado que hagas esto)
 
 <h3 align="left"> Discusiones y/o Salva vidas </h3>
-pass
+GitHub tiene una herramienta muy útil llamada "Issues" que utilizaremos para hacer preguntas técnicas y resolver dudas. Si te encuentras con un problema o necesitas ayuda, puedes crear un "Issue" en el repositorio y la comunidad te responderá. Esta herramienta es ideal para compartir experiencias, resolver dudas y colaborar en soluciones. 
 
-<h3 align="left"> Contribuciones </h3>
+<h3 align="left"> Contribuciones ¿Cómo puedo hacer parte del proyecto?</h3>
 
-Este repositorio es Open Source, si deseas contribuir, siéntete libre de hacerlo. La idea es que este repositorio crezca y se enriquezca con el aporte de todos. Si no sabes cómo hacerlo, no te preocupes podrás encontrar un apartado explicando cómo pueden hacer Pull Request (PRs) para adicionar contenido
+Hay varias formas en que puedes contribuir a este repositorio: 
 
-<h3 align="left"> Contacto </h3>
-Para cualquier duda o sugerencia, puedes contactarnos por aquí por Github o por medio de los siguientes emails 
-
-
-<br>**Santiago Murgueitio - @lapiceroazul4**
-- santiago_mur@uao.edu.co
-- lapiceroazul4@proton.me
+- Puedes darle Star y Watch al repositorio. Esto le dice a GitHub que el contenido te resultó valioso y te permitirá recibir notificaciones cada vez que, por ejemplo, alguien haga una pregunta (Issue). De esta manera, podrás revisarla y, si tienes una respuesta o sabes dónde encontrarla, ayudar a resolver el problema.
+- Este repositorio es Open Source, si deseas contribuir, siéntete libre de hacerlo. puedes hacer un fork, realizar los cambios que consideres necesarios y luego hacer un Pull Request. Si no estás familiarizado con este proceso ntp, puedes consultar esta guía para más detalles.
