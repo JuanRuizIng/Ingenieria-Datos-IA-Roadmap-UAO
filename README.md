@@ -30,6 +30,10 @@ Para el momento en que escribo esto, apenas la primera cohorte de la carrera ha 
 <h3 align="left"> Discusiones y/o Salva vidas </h3>
 GitHub tiene una herramienta muy útil llamada "Issues" que utilizaremos para hacer preguntas técnicas y resolver dudas. Si te encuentras con un problema o necesitas ayuda, puedes crear un "Issue" en el repositorio y la comunidad te responderá. Esta herramienta es ideal para compartir experiencias, resolver dudas y colaborar en soluciones. 
 
+&nbsp;<div align="center">
+  ![Cómo crear un Issue en GitHub](assets/How-to-make-an-issue-ezgif.com-crop.gif)
+</div>
+
 <h3 align="left"> Contribuciones ¿Cómo puedo hacer parte del proyecto?</h3>
 
 Hay varias formas en que puedes contribuir a este repositorio: 
